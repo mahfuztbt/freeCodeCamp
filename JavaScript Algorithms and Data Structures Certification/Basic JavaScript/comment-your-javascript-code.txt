@@ -1,0 +1,3 @@
+//this is  the commemt
+/*this comment work like c programming
+*/

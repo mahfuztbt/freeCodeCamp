@@ -1,0 +1,5 @@
+// Change code below this line
+
+var someAdjective = "excillent!";
+var myStr = "Mahfuz is ";
+myStr += someAdjective;
