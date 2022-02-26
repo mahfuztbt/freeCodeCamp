@@ -1,0 +1,7 @@
+let sum = 3;
+
+function addFive(num) {
+  sum = sum + 5;
+}
+
+addFive(5);
